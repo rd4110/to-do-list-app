@@ -1,0 +1,21 @@
+:root {
+  --graybg: #323435;
+  --blackbg: #000000;
+  --blue: #3661eb;
+  --white: #ffffff;
+  --greylight:rgba(217, 217, 217, 0.5);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Noto Sans", sans-serif;
+}
+
+.error {
+  color: red;
+  font-size: 10px;
+  padding-left: 5px;
+  margin: 0;
+}
